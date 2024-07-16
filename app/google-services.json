@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "67761979706",
+    "project_id": "mlandriodproject",
+    "storage_bucket": "mlandriodproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67761979706:android:8322819ebba7b3151b9003",
+        "android_client_info": {
+          "package_name": "com.example.text_image"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_O59G0oX5w6EW8vaMjcCbtcu4sNNGH8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
